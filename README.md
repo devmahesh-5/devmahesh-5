@@ -1,3 +1,4 @@
+## Hello,I am Mahesh Bhandari.
 - Computer Engineering undergraduate with a strong foundation in full-stack web and app development  
 - Comfortable building end-to-end systems: clean UI, solid backend logic, and real integrations 
 - Currently going deep into Generative AI, including:  
@@ -23,9 +24,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devmahesh-5&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devmahesh-5&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmahesh-5&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=devmahesh-5&theme=transparent)<br/>
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devmahesh-5&theme=transparent)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmahesh-5&theme=github-compact)
 
 
 
